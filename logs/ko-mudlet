@@ -1,0 +1,23 @@
+Shell completion has been enabled!
+============================================================================
+
+                  [1;34mSTART OF ALL INSTALLATION PROCESSES[0m
+
+============================================================================
+
+ ◆ "MUDLET": starting installation script
+
+--2025-03-12 08:15:55--  https://www.mudlet.org/wp-content/files/Mudlet--linux-x64.AppImage.tar
+Resolving www.mudlet.org (www.mudlet.org)... 72.14.181.158, 2600:3c00::f03c:91ff:fe96:ab8b
+Connecting to www.mudlet.org (www.mudlet.org)|72.14.181.158|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2025-03-12 08:15:56 ERROR 404: Not Found.
+
+
+ 💀 ERROR DURING INSTALLATION, REMOVED "MUDLET"!
+____________________________________________________________________________
+============================================================================
+
+                  [1;34mEND OF ALL INSTALLATION PROCESSES
+[0m
+============================================================================

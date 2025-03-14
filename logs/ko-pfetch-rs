@@ -1,0 +1,19 @@
+Shell completion has been enabled!
+============================================================================
+
+                  [1;34mSTART OF ALL INSTALLATION PROCESSES[0m
+
+============================================================================
+
+ ◆ "PFETCH-RS": starting installation script
+
+1741889821 ERROR torsocks[3077]: Unable to resolve. Status reply: 4 (in socks5_recv_resolve_reply() at socks5.c:677)
+http://: Invalid host name.
+
+ 💀 ERROR DURING INSTALLATION, REMOVED "PFETCH-RS"!
+____________________________________________________________________________
+============================================================================
+
+                  [1;34mEND OF ALL INSTALLATION PROCESSES
+[0m
+============================================================================

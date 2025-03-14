@@ -1,0 +1,24 @@
+Shell completion has been enabled!
+============================================================================
+
+                  [1;34mSTART OF ALL INSTALLATION PROCESSES[0m
+
+============================================================================
+
+ ◆ "WEBCATALOG": starting installation script
+
+1741875123 ERROR torsocks[2956]: Unable to resolve. Status reply: 4 (in socks5_recv_resolve_reply() at socks5.c:677)
+--2025-03-13 14:12:03--  https://cdn-2.webcatalog.io/webcatalog/WebCatalog-.AppImage
+Resolving cdn-2.webcatalog.io (cdn-2.webcatalog.io)... 104.26.12.175, 172.67.69.215, 104.26.13.175, ...
+Connecting to cdn-2.webcatalog.io (cdn-2.webcatalog.io)|104.26.12.175|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2025-03-13 14:12:03 ERROR 404: Not Found.
+
+
+ 💀 ERROR DURING INSTALLATION, REMOVED "WEBCATALOG"!
+____________________________________________________________________________
+============================================================================
+
+                  [1;34mEND OF ALL INSTALLATION PROCESSES
+[0m
+============================================================================

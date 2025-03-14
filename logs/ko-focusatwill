@@ -1,0 +1,24 @@
+Shell completion has been enabled!
+============================================================================
+
+                  [1;34mSTART OF ALL INSTALLATION PROCESSES[0m
+
+============================================================================
+
+ ◆ "FOCUSATWILL": starting installation script
+
+1741875038 ERROR torsocks[3102]: Unable to resolve. Status reply: 4 (in socks5_recv_resolve_reply() at socks5.c:677)
+--2025-03-13 14:10:38--  https://faw-desktop.s3.amazonaws.com/focusatwill-.AppImage
+Resolving faw-desktop.s3.amazonaws.com (faw-desktop.s3.amazonaws.com)... 16.182.74.1, 52.217.141.113, 52.217.224.9, ...
+Connecting to faw-desktop.s3.amazonaws.com (faw-desktop.s3.amazonaws.com)|16.182.74.1|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2025-03-13 14:10:38 ERROR 404: Not Found.
+
+
+ 💀 ERROR DURING INSTALLATION, REMOVED "FOCUSATWILL"!
+____________________________________________________________________________
+============================================================================
+
+                  [1;34mEND OF ALL INSTALLATION PROCESSES
+[0m
+============================================================================
